@@ -1,0 +1,1 @@
+MIN_ARGS_LEN = 2
